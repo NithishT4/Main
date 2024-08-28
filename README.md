@@ -7,7 +7,7 @@ Git Assignment
 5. Jack and Jill -> Pooja
 6. Wheels on the bus - > Sunil
 
-I want to see different branches for each. Each rhymes should have entry from everyone of you. I want a main branch, dev branch , other poem branch.
+I want to see different branches for each. Each rhymes should have entry from everyone of you. I want a main branch, dev branch, other poem branch.
  
 Dev branch should be always up to date. And other rhymes branches to have daily frequently pulled changes from develop branch
  
